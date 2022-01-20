@@ -1,0 +1,610 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1, shrink-to-fit=no"
+    />
+    <meta name="description" content="" />
+    <meta name="author" content="" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700;900&display=swap"
+      rel="stylesheet"
+    />
+
+    <title>Schaltenbrand Labs</title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet" />
+
+    <!-- Additional CSS Files -->
+    <link
+      rel="stylesheet"
+      href="https://use.fontawesome.com/releases/v5.8.1/css/all.css"
+      integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf"
+      crossorigin="anonymous"
+    />
+    <link rel="stylesheet" href="assets/css/templatemo-chain-app-dev.css" />
+    <link rel="stylesheet" href="assets/css/animated.css" />
+    <link rel="stylesheet" href="assets/css/owl.css" />
+  </head>
+
+  <body>
+    <!-- ***** Preloader Start ***** -->
+    <div id="js-preloader" class="js-preloader">
+      <div class="preloader-inner">
+        <span class="dot"></span>
+        <div class="dots">
+          <span></span>
+          <span></span>
+          <span></span>
+        </div>
+      </div>
+    </div>
+    <!-- ***** Preloader End ***** -->
+
+    <!-- ***** Header Area Start ***** -->
+    <header
+      class="header-area header-sticky wow slideInDown"
+      data-wow-duration="0.75s"
+      data-wow-delay="0s"
+    >
+      <div class="container">
+        <div class="row">
+          <div class="col-12">
+            <nav class="main-nav">
+              <!-- ***** Logo Start ***** -->
+              <a href="index.html" class="logo">
+                <img
+                  src="assets/images/default-monochrome-black.svg"
+                  alt="Chain App Dev"
+                />
+              </a>
+              <!-- ***** Logo End ***** -->
+              <!-- ***** Menu Start ***** -->
+              <ul class="nav">
+                <li class="scroll-to-section">
+                  <a href="#top" class="active">Start</a>
+                </li>
+                <li class="scroll-to-section">
+                  <a href="#services">Services</a>
+                </li>
+                <li class="scroll-to-section">
+                  <a href="#about">Über uns</a>
+                </li>
+                <li class="scroll-to-section">
+                  <a href="#pricing">Preise</a>
+                </li>
+                <li class="scroll-to-section">
+                  <a href="#newsletter">Newsletter</a>
+                </li>
+                <li>
+                  <div class="gradient-button">
+                    <a id="modal_trigger" href="#modal"
+                      ><i class="fa fa-sign-in-alt"></i> Jetzt anmelden</a
+                    >
+                  </div>
+                </li>
+              </ul>
+              <a class="menu-trigger">
+                <span>Menu</span>
+              </a>
+              <!-- ***** Menu End ***** -->
+            </nav>
+          </div>
+        </div>
+      </div>
+    </header>
+    <!-- ***** Header Area End ***** -->
+
+    <div id="modal" class="popupContainer" style="display: none">
+      <div class="popupHeader">
+        <span class="header_title">Login</span>
+        <span class="modal_close"><i class="fa fa-times"></i></span>
+      </div>
+
+      <section class="popupBody">
+        <!-- Social Login -->
+        <div class="social_login">
+          <div class="">
+            <a href="#" class="social_box fb">
+              <span class="icon"><i class="fab fa-facebook"></i></span>
+              <span class="icon_title">Verbinde dich mit Facebook</span>
+            </a>
+
+            <a href="#" class="social_box google">
+              <span class="icon"><i class="fab fa-google-plus"></i></span>
+              <span class="icon_title">Verbinde dich mit Google</span>
+            </a>
+          </div>
+
+          <div class="centeredText">
+            <span>Oder benutze deine Emailadresse</span>
+          </div>
+
+          <div class="action_btns">
+            <div class="one_half">
+              <a href="#" id="login_form" class="btn">Anmelden</a>
+            </div>
+            <div class="one_half last">
+              <a href="#" id="register_form" class="btn">Registrieren</a>
+            </div>
+          </div>
+        </div>
+
+        <!-- Username & Password Login form -->
+        <div class="user_login">
+          <form>
+            <label>Email / Username</label>
+            <input type="text" />
+            <br />
+
+            <label>Password</label>
+            <input type="password" />
+            <br />
+
+            <div class="checkbox">
+              <input id="remember" type="checkbox" />
+              <label for="remember">Bleibe an diesem Computer angemeldet</label>
+            </div>
+
+            <div class="action_btns">
+              <div class="one_half">
+                <a href="#" class="btn back_btn"
+                  ><i class="fa fa-angle-double-left"></i> Zurück</a
+                >
+              </div>
+              <div class="one_half last">
+                <a href="#" class="btn btn_red">Anmelden</a>
+              </div>
+            </div>
+          </form>
+
+          <a href="#" class="forgot_password">Passwort vergessen?</a>
+        </div>
+
+        <!-- Register Form -->
+        <div class="user_register">
+          <form>
+            <label>Name</label>
+            <input type="text" />
+            <br />
+
+            <label>Email Addresse</label>
+            <input type="email" />
+            <br />
+
+            <label>Passwort</label>
+            <input type="password" />
+            <br />
+
+            <div class="checkbox">
+              <input id="send_updates" type="checkbox" />
+              <label for="send_updates">Sende mir die Newsletter zu</label>
+            </div>
+
+            <div class="action_btns">
+              <div class="one_half">
+                <a href="#" class="btn back_btn"
+                  ><i class="fa fa-angle-double-left"></i> Zurück</a
+                >
+              </div>
+              <div class="one_half last">
+                <a href="#" class="btn btn_red">Registrieren</a>
+              </div>
+            </div>
+          </form>
+        </div>
+      </section>
+    </div>
+
+    <div
+      class="main-banner wow fadeIn"
+      id="top"
+      data-wow-duration="1s"
+      data-wow-delay="0.5s"
+    >
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-12">
+            <div class="row">
+              <div class="col-lg-6 align-self-center">
+                <div
+                  class="left-content show-up header-text wow fadeInLeft"
+                  data-wow-duration="1s"
+                  data-wow-delay="1s"
+                >
+                  <div class="row">
+                    <div class="col-lg-12">
+                      <h2>
+                        Lade dir meine <br />
+                        neuste App herunter
+                      </h2>
+                      <p>
+                        Mein grösstes Projekt ist die App Schulferien Schweiz –
+                        Ferienplanung. Mit der Entwicklung dieser App habe ich
+                        bereits 10+ Stunden verbracht. Alle Daten wurden manuell
+                        überprüft und in die App übertragen. Sie benötigt
+                        ausserdem viel Pflegebedarf, weil immer wieder
+                        Neuerungen für die Daten bevorstehen.
+                      </p>
+                    </div>
+                    <div class="col-lg-12">
+                      <div class="white-button first-button scroll-to-section">
+                        <a href="#contact"
+                          >Bald verfügbar <i class="fab fa-apple"></i
+                        ></a>
+                      </div>
+                      <div class="white-button scroll-to-section">
+                        <a
+                          href="https://play.google.com/store/apps/details?id=ch.labs.joel.ferienplan"
+                          target="_blank"
+                          >Herunterladen <i class="fab fa-google-play"></i
+                        ></a>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="col-lg-6">
+                <div
+                  class="right-image wow fadeInRight"
+                  data-wow-duration="1s"
+                  data-wow-delay="0.5s"
+                >
+                  <img src="assets/images/slider-dec.png" alt="" />
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div id="services" class="services section">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-8 offset-lg-2">
+            <div
+              class="section-heading wow fadeInDown"
+              data-wow-duration="1s"
+              data-wow-delay="0.5s"
+            >
+              <h4>Unsere <em>Services &amp; Features</em> für Sie</h4>
+              <img src="assets/images/heading-line-dec.png" alt="" />
+              <p>
+                Hier aufgelistet finden Sie unsere Services, welche wir für Sie
+                anbieten. Falls Sie ein Service suchen, welche hier nicht
+                angeboten wird
+                <a href="mailto:info@schaltenbrandlabs.ch" target="_parent"
+                  >kontaktieren Sie mich</a
+                >
+                für weitere Informationen.
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+      
+      <!-- <div class="container">
+        <div class="row">
+          <div class="col-lg-3">
+            <div class="service-item first-service">
+              <div class="icon"></div>
+              <h4>App Maintenance</h4>
+              <p>
+                You are not allowed to redistribute this template ZIP file on
+                any other website.
+              </p>
+              <div class="text-button">
+                <a href="#">Mehr erfahren <i class="fa fa-arrow-right"></i></a>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-3">
+            <div class="service-item second-service">
+              <div class="icon"></div>
+              <h4>Rocket Speed of App</h4>
+              <p>
+                You are allowed to use the Chain App Dev HTML template. Feel
+                free to modify or edit this layout.
+              </p>
+              <div class="text-button">
+                <a href="#">Mehr erfahren <i class="fa fa-arrow-right"></i></a>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-3">
+            <div class="service-item third-service">
+              <div class="icon"></div>
+              <h4>Multi Workflow Idea</h4>
+              <p>
+                If this template is beneficial for your work, please support us
+                <a
+                  rel="nofollow"
+                  href="https://paypal.me/templatemo"
+                  target="_blank"
+                  >a little via PayPal</a
+                >. Thank you.
+              </p>
+              <div class="text-button">
+                <a href="#">Mehr erfahren <i class="fa fa-arrow-right"></i></a>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-3">
+            <div class="service-item fourth-service">
+              <div class="icon"></div>
+              <h4>24/7 Help &amp; Support</h4>
+              <p>
+                Lorem ipsum dolor consectetur adipiscing elit sedder
+                williamsburg photo booth quinoa and fashion axe.
+              </p>
+              <div class="text-button">
+                <a href="#">Mehr erfahren <i class="fa fa-arrow-right"></i></a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div> -->
+
+    <div id="about" class="about-us section">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-6 align-self-center">
+            <div class="section-heading">
+              <h4><em>Was machen wir</em> &amp; Wer sind wir?</h4>
+              <img src="assets/images/heading-line-dec.png" alt="" />
+              <p>
+                SchaltenbrandLabs ist ein Schweizer Unternehmen welches kleinere
+                effiziente Apps für Android Geräte entwickelt.
+              </p>
+            </div>
+            <div class="row">
+              <div class="col-lg-6">
+                <div class="box-item">
+                  <h4><a href="#">App Entwicklung</a></h4>
+                  <p>
+                    Wir entwickeln für Sie Ihre Apps. Sie sagen uns was Sie
+                    haben wollen und wir setzen es um.
+                  </p>
+                </div>
+              </div>
+              <div class="col-lg-6">
+                <div class="box-item">
+                  <h4><a href="#">24/7 Support &amp; Hilfe</a></h4>
+                  <p>Bei Problemen können Sie uns jederzeit ereichen.</p>
+                </div>
+              </div>
+              <div class="col-lg-6">
+                <div class="box-item">
+                  <h4><a href="#">Grafikdesign</a></h4>
+                  <p>
+                    Wir erstellen für Sie die Grafiken für Apps und die
+                    Storeeinträge. Sie können jederzeit Anpassungen vornehmen
+                    oder vorschlagen.
+                  </p>
+                </div>
+              </div>
+              <div class="col-lg-6">
+                <div class="box-item">
+                  <h4><a href="#">Einträge in die Stores</a></h4>
+                  <p>
+                    Wir veröffentlichen für Sie Ihre Apps im Playstore oder
+                    Appstore. Sie müssen kein Konto oder ähnliches besitzen.
+                  </p>
+                </div>
+              </div>
+              <div class="col-lg-12">
+                <div class="gradient-button">
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-6">
+            <div class="right-image">
+              <img src="assets/images/about-right-dec.png" alt="" />
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div id="pricing" class="pricing-tables">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-8 offset-lg-2">
+            <div class="section-heading">
+              <h4>Die besten <em>Preise</em> nur für <em>Sie</em>!</h4>
+              <img src="assets/images/heading-line-dec.png" alt="" />
+              <p>
+                Buche mich für eine eigene App oder Fehlerbehebung deiner
+                bereits bestehenden App.
+              </p>
+            </div>
+          </div>
+          <div class="col-lg-4">
+            <div class="pricing-item-regular">
+              <span class="price">20 CHF</span>
+              <h4>Fehlerbehebung und Hilfe</h4>
+              <div class="icon">
+                <img src="assets/images/pricing-table-01.png" alt="" />
+              </div>
+              <ul>
+                <li>Fehlerbehebungen</li>
+                <li>Tipps und Tricks</li>
+                <li class="non-function">Grafik Design</li>
+                <li class="non-function">App programmierung</li>
+                <li class="non-function">Playstore/Appstore Eintrag</li>
+                <li class="non-function">Premium Support</li>
+              </ul>
+              <div class="border-button">
+                <a href="https://paypal.me/schaltenbrand/50">Jetzt kaufen</a>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-4">
+            <div class="pricing-item-pro">
+              <span class="price">100 CHF</span>
+              <h4>App Entwicklung</h4>
+              <div class="icon">
+                <img src="assets/images/pricing-table-01.png" alt="" />
+              </div>
+              <ul>
+                <li>Fehlerbehebungen</li>
+                <li>Tipps und Tricks</li>
+                <li>Grafik Design</li>
+                <li>App programmierung</li>
+                <li class="non-function">Playstore/Appstore Eintrag</li>
+                <li class="non-function">Premium Support</li>
+              </ul>
+              <div class="border-button">
+                <a href="https://paypal.me/schaltenbrand/100">Jetzt kaufen</a>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-4">
+            <div class="pricing-item-regular">
+              <span class="price">300 CHF</span>
+              <h4>App Entwicklung Premium</h4>
+              <div class="icon">
+                <img src="assets/images/pricing-table-01.png" alt="" />
+              </div>
+              <ul>
+                <li>Fehlerbehebungen</li>
+                <li>Tipps und Tricks</li>
+                <li>Grafik Design</li>
+                <li>App programmierung</li>
+                <li>Playstore/Appstore Eintrag</li>
+                <li>Premium Support</li>
+              </ul>
+              <div class="border-button">
+                <a href="https://paypal.me/schaltenbrand/300">Jetzt kaufen</a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <footer id="newsletter">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-8 offset-lg-2">
+            <div class="section-heading">
+              <h4>
+                Melde dich für unser Newsletter an und verpasse nichts mehr!
+              </h4>
+            </div>
+          </div>
+          <div class="col-lg-6 offset-lg-3">
+            <form id="search" action="#" method="GET">
+              <div class="row">
+                <div class="col-lg-6 col-sm-6">
+                  <fieldset>
+                    <input
+                      type="address"
+                      name="address"
+                      class="email"
+                      placeholder="Email Addresse..."
+                      autocomplete="on"
+                      required
+                    />
+                  </fieldset>
+                </div>
+                <div class="col-lg-6 col-sm-6">
+                  <fieldset>
+                    <button type="submit" class="main-button">
+                      Jetzt anmelden <i class="fa fa-angle-right"></i>
+                    </button>
+                  </fieldset>
+                </div>
+              </div>
+            </form>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-lg-3">
+            <div class="footer-widget">
+              <h4>Kontaktiere uns</h4>
+              <p>Bleihollenweg 20, CH-4242 Laufen</p>
+              <p><a href="#">+41 78 870 11 92</a></p>
+              <p><a href="#">info@schaltenbrandlabs.ch</a></p>
+            </div>
+          </div>
+          <div class="col-lg-3">
+            <div class="footer-widget">
+              <h4>Navigation</h4>
+              <ul>
+                <li><a href="#top">Start</a></li>
+                <li><a href="#services">Services</a></li>
+                <li><a href="#about">Über uns</a></li>
+                <li><a href="#pricing">Preise</a></li>
+                <li><a href="#newsletter">Newsletter</a></li>
+              </ul>
+            </div>
+          </div>
+          <div class="col-lg-3">
+            <div class="footer-widget">
+              <h4>Nützliche Links</h4>
+              <ul>
+                <li>
+                  <a href="https://www.joelschaltenbrand.ch">Portfolio</a>
+                </li>
+                <li>
+                  <a
+                    href="https://play.google.com/store/apps/dev?id=8125127053931572900"
+                    >Entwicklerseite</a
+                  >
+                </li>
+                <li>
+                  <a href="https://www.instagram.com/schaltenbrandlabs/"
+                    >Instagram</a
+                  >
+                </li>
+                <li>
+                  <a href="https://www.linkedin.com/in/joel-schaltenbrand/"
+                    >Linkedin</a
+                  >
+                </li>
+                <li>
+                  <a href="https://twitter.com/schaltenbrandl">Twitter</a>
+                </li>
+              </ul>
+            </div>
+          </div>
+          <div class="col-lg-3">
+            <div class="footer-widget">
+              <h4>Über uns</h4>
+              <div class="logo">
+                <img src="assets/images/default-monochrome-white.svg" alt="" />
+              </div>
+              <p>
+                SchaltenbrandLabs ist ein Schweizer Unternehmen welches kleinere
+                effiziente Apps für Android Geräte entwickelt.
+              </p>
+            </div>
+          </div>
+          <div class="col-lg-12">
+            <div class="copyright-text">
+              <p>Copyright © 2022 SchaltenbrandLabs. All Rights Reserved.</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </footer>
+
+    <!-- Scripts -->
+    <script src="vendor/jquery/jquery.min.js"></script>
+    <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+    <script src="assets/js/owl-carousel.js"></script>
+    <script src="assets/js/animation.js"></script>
+    <script src="assets/js/imagesloaded.js"></script>
+    <script src="assets/js/popup.js"></script>
+    <script src="assets/js/custom.js"></script>
+  </body>
+</html>
