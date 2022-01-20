@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Joel-Schaltenbrand
+- 👀 I’m interested in Computer, Programming and technical things.
+- 🌱 I’m currently learning Java.
+- 💼 I'm currently doing an apprenticeship as a computer scientist application developer.
