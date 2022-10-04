@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [schaltenbrandlabs.ch](schaltenbrandlabs.ch)
 
-- 👀 I’m interested in [Computer, Programming and technical things.](Computer, Programming and technical things.)
+- 👀 I’m interested in Computer, Programming and technical things.
 
 - 📫 How to reach me **github@joelschaltenbrand.ch**
 
