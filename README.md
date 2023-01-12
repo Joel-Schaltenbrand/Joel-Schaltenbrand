@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Joel Schaltenbrand</h1>
 <h3 align="center">I am a Swiss programmer and I am very interested in computer science.</h3>
 
-- 🌱 I’m currently learning **Java, Bash, HTML/CSS/JS**
-
 - 👨‍💻 All of my projects are available at [schaltenbrandlabs.ch](schaltenbrandlabs.ch)
 
 - 👀 I’m interested in Computer, Programming and technical things.
