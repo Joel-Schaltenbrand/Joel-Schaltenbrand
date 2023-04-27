@@ -11,16 +11,10 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Joel-Schaltenbrand&theme=dark&hide_border=false)<br/>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Joel-Schaltenbrand&theme=gitdimmed&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Joel-Schaltenbrand&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Joel-Schaltenbrand&icon=0&color=12)](https://visitcount.itsvg.in)
-
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/SchaltenbrandL) 
-
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
