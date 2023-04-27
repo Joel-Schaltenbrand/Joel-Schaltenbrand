@@ -16,5 +16,11 @@
 ## 🏆 GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=joel-schaltenbrand&theme=onedark)](https://github.com/joel-schaltenbrand/github-profile-trophy)
 
+## 📈 GitHub Stats
+[![trophy](https://github-readme-stats.vercel.app/api?username=joel-schaltenbrand&show_icons=true&locale=en)
+
+## 📙 GitHub Languages
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=joel-schaltenbrand&show_icons=true&locale=en&layout=compact" width="40%" />
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
