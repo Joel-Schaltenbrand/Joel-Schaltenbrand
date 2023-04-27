@@ -3,7 +3,6 @@
 # 💫 About Me:
 👨‍💻 All of my projects are available at [schaltenbrandlabs.ch](https://schaltenbrandlabs.ch)<br>👀 I’m interested in Computer, Programming and technical things.<br>📫 How to reach me github@joelschaltenbrand.ch<br>📄 Know about my experiences [joelschaltenbrand.ch](https://joelschaltenbrand.ch)
 
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__joel02__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/joel-schaltenbrand) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20663615) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UCLzOmtcOmtcD2al_iVVWZdQ) 
 
