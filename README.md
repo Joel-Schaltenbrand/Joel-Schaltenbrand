@@ -36,10 +36,10 @@
 
 # 📊 Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Joel-Schaltenbrand&theme=dark)<br/>
-![](https://github-readme-stats.vercel.app/api?username=joel-schaltenbrand&show_icons=true&theme=dark)
+![](https://github-readme-stats.vercel.app/api?username=joel-schaltenbrand&show_icons=true&theme=dark&count_private=true)
 
 # 🏆 Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=joel-schaltenbrand&theme=dark)](https://github.com/joel-schaltenbrand/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=joel-schaltenbrand&theme=onedark)](https://github.com/joel-schaltenbrand/github-profile-trophy)
 
 # 📙 Languages
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=joel-schaltenbrand&show_icons=true&layout=compact&theme=dark)
