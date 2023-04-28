@@ -1,12 +1,12 @@
 ![](https://komarev.com/ghpvc/?username=joel-schaltenbrand&color=blue)
 
-# 💫 About Me:
+# 💫 About Me
 👨‍💻 All of my projects are available at [schaltenbrandlabs.ch](https://schaltenbrandlabs.ch)<br>👀 I’m interested in Computer, Programming and technical things.<br>📫 How to reach me github@joelschaltenbrand.ch<br>📄 Know about my experiences [joelschaltenbrand.ch](https://joelschaltenbrand.ch)
 
-## 🌐 Socials:
+## 🌐 Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__joel02__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/joel-schaltenbrand) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/21419105)
 
-# 💻 Tech Stack:
+# 💻 Tech Stack
 <div align="center">  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>
@@ -34,7 +34,7 @@
 <a href="https://azure.microsoft.com/en-in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/microsoft_azure-icon.svg" alt="Azure" height="50" /></a>  
 </div>
 
-# 📊 Stats:
+# 📊 Stats
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Joel-Schaltenbrand&theme=dark&show_icons=true&hide_border=true&count_private=true)<br/>
 ![](https://github-readme-stats.vercel.app/api?username=joel-schaltenbrand&show_icons=true&theme=dark&count_private=true&hide_border=true)
 
