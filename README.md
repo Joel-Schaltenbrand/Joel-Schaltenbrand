@@ -35,14 +35,14 @@
 </div>
 
 # 📊 Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=Joel-Schaltenbrand&theme=dark&show_icons=true&hide_border=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Joel-Schaltenbrand&theme=dark&show_icons=true&hide_border=true&count_private=true)<br/>
 ![](https://github-readme-stats.vercel.app/api?username=joel-schaltenbrand&show_icons=true&theme=dark&count_private=true&hide_border=true)
 
 # 🏆 Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=joel-schaltenbrand&theme=onedark)](https://github.com/joel-schaltenbrand/github-profile-trophy&hide_border=true)
+[![trophy](https://github-profile-trophy.vercel.app/?username=joel-schaltenbrand&theme=onedark)](https://github.com/joel-schaltenbrand/github-profile-trophy&hide_border=true&count_private=true)
 
 # 📙 Languages
-![](https://github-readme-stats.vercel.app/api/top-langs?username=joel-schaltenbrand&show_icons=true&layout=compact&theme=dark&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs?username=joel-schaltenbrand&show_icons=true&layout=compact&theme=dark&hide_border=true&count_private=true)
 
 ## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&hide_border=true)
