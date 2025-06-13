@@ -5,7 +5,7 @@
 👀 I’m interested in Computer, Programming and technical things.<br>📫 How to reach me [info@joelschaltenbrand.ch](mailto:info@joelschaltenbrand.ch)<br>📄 Know about my experiences [joelschaltenbrand.ch](https://joelschaltenbrand.ch)<br><br>
 ![](https://komarev.com/ghpvc/?username=joel-schaltenbrand&color=blue)
 <br><br>
-![TryHackMe Stats](https://tryhackme-badges.s3.amazonaws.com/JoelSchaltenbrand.png?)
+[![TryHackMe Stats](https://tryhackme-badges.s3.amazonaws.com/JoelSchaltenbrand.png?)](https://tryhackme.com/p/JoelSchaltenbrand)
 <br><br>
 
 # 🌐 Socials
